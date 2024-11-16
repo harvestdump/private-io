@@ -20,8 +20,8 @@
   "author": "Ashok Dey",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.20.1",
-    "express": "^4.19.2",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
     "moment": "^2.29.4",
     "prop-types": "^15.7.2",
     "react": "^18.2.0",
@@ -29,7 +29,7 @@
     "eslint-config-airbnb": "^18.0.1",
     "react-emoji": "^0.5.0",
     "react-linkify": "^0.2.2",
-    "socket.io": "^2.5.0"
+    "socket.io": "^4.8.1"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
@@ -43,6 +43,6 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.16.0",
     "source-map": "^0.5.7",
-    "webpack": "^5.89.0"
+    "webpack": "^5.94.0"
   }
 }
